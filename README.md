@@ -4,5 +4,5 @@ Foi aplicado comandos do git, via terminal, no sistema oepracional Linux: Ubuntu
 
 
 ## Links Utéis
-{Site do Git}(https://git-scm.com/)
+[Site do Git](https://git-scm.com/)
 
