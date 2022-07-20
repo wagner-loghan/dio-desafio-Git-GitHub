@@ -5,7 +5,7 @@ Foi aplicado comandos do git, via terminal, no sistema oepracional Linux: Ubuntu
 
 ## Links Utéis
 
-[Site do Git](https://git-scm.com/)
+[Site do Git](https://git-scm.com/) ;/
 [Sintaxe basica Markdown](https://www.markdownguide.org/basic-syntax/)
 
 
