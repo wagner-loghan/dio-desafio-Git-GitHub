@@ -1,3 +1,11 @@
 # Blog de tecnologia com dicas, curso e macetes em Git
 
+
 https://blog.dankicode.com/dicas-de-git-e-github/
+
+
+## Canal do youtube, com 1 Hora de curso de Git/GitHub
+
+
+https://www.youtube.com/watch?v=kB5e-gTAl_s
+
